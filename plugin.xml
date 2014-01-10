@@ -9,7 +9,10 @@
   <author>CCSoft</author>
   <keywords>facebook,cordova,ccsoft</keywords>
   <license>Apache 2.0 License</license>
-
+  <repo>https://github.com/guizmo/cordova-facebook.git</repo>
+        <js-module src="www/CordovaFacebook.js" name="CordovaFacebook">
+            <clobbers target="CordovaFacebook" />
+        </js-module>
     <engines>
       <engine name="cordova" version=">=3.0.0" />
     </engines>
