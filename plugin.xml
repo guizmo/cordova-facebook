@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	id="com.ccsoft.plugin.CordovaFacebook"
+	id="com.guizmo.plugin.CordovaFacebook"
 	version="1.0.0">
 
 	<name>CordovaFacebook</name>
